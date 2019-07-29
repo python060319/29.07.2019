@@ -25,6 +25,7 @@ def foo():
 
 # create MobilePhone class
 # in init print("creating a phone")
+#   also call factoryRestart
 # create methods: ring, powerOn,
 #   powerOff
 # create secret method: factoryRestart
